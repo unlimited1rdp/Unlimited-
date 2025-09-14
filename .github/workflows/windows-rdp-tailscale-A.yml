@@ -41,9 +41,9 @@ defaults:
     shell: pwsh
 
 env:
-  RDP_USER: Godmanjeet
-  RDP_PASS: Manjeetfr
-  TS_HOSTNAME: Manjeet
+  RDP_USER: Bullettemporary
+  RDP_PASS: Bullet@12345
+  TS_HOSTNAME: bullet
 
 jobs:
   rdp:
